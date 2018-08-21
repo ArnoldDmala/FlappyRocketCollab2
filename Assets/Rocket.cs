@@ -164,7 +164,7 @@ public class Rocket : MonoBehaviour {
     {
         
 
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1); //First level is actually one since I've changed the menu
     }
 
     private void RespondToThrustInput()
