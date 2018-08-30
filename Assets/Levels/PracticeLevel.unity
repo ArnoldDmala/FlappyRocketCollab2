@@ -950,7 +950,7 @@ Prefab:
     - target: {fileID: 114790047257864650, guid: 0dbf5a035fa82d944804f0efffb4170e,
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 224661333830545466, guid: 0dbf5a035fa82d944804f0efffb4170e,
         type: 2}
@@ -1240,6 +1240,31 @@ Prefab:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 114790047257864650, guid: 0dbf5a035fa82d944804f0efffb4170e,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114790047257864650, guid: 0dbf5a035fa82d944804f0efffb4170e,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114790047257864650, guid: 0dbf5a035fa82d944804f0efffb4170e,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1067136087}
+    - target: {fileID: 114790047257864650, guid: 0dbf5a035fa82d944804f0efffb4170e,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: Stop
+      objectReference: {fileID: 0}
+    - target: {fileID: 114790047257864650, guid: 0dbf5a035fa82d944804f0efffb4170e,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0dbf5a035fa82d944804f0efffb4170e, type: 2}
   m_IsPrefabAsset: 0
@@ -1272,7 +1297,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 8300000, guid: a0448756a5689bd41a113cec4db23085, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.19
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -2081,6 +2106,11 @@ Prefab:
     - target: {fileID: 4651140486465412, guid: 3fdc482d57aa45847975cc981174b0a4, type: 2}
       propertyPath: m_RootOrder
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114098337609733012, guid: 3fdc482d57aa45847975cc981174b0a4,
+        type: 2}
+      propertyPath: mainEngine
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fdc482d57aa45847975cc981174b0a4, type: 2}
