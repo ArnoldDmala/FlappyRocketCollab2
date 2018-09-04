@@ -18,8 +18,14 @@ EditorBuildSettings:
     path: Assets/Levels/PracticeLevel3.unity
     guid: 1ab0eff6556363043a41d7b063aca79b
   - enabled: 1
-    path: Assets/Levels/Example Space Cosmic.unity
+    path: Assets/Levels/PracticeLevel4.unity
+    guid: 7c66d8fca54be184cb524ef57f8df86b
+  - enabled: 1
+    path: Assets/Levels/SpaceLevel 1.unity
     guid: c1524e8e9c4a5a746bbd929eb37fecc1
+  - enabled: 1
+    path: Assets/Levels/SpaceLevel 2.unity
+    guid: 34ac05aff24cc0241adbd54fd4bd2050
   - enabled: 1
     path: Assets/Levels/Level 3 Redo.unity
     guid: 308fa82971aabae4d8cfa1609a8e7a3a
