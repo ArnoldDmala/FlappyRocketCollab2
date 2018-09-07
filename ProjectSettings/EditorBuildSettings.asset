@@ -30,12 +30,15 @@ EditorBuildSettings:
     path: Assets/Levels/SpaceLevel 3.unity
     guid: dd6bf05a3f9560d41a1a57b3e3d0bde5
   - enabled: 1
+    path: Assets/Levels/SpaceLevel 4.unity
+    guid: 899388111ab41f04da2a20448b5d0f7c
+  - enabled: 0
     path: Assets/Levels/SpaceLava1.unity
     guid: 34ac05aff24cc0241adbd54fd4bd2050
-  - enabled: 1
+  - enabled: 0
     path: Assets/Levels/Level 3 Redo.unity
     guid: 308fa82971aabae4d8cfa1609a8e7a3a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Levels/Level 4 Redo.unity
     guid: 3aafdb0b694fb63409113e56a0033c80
   - enabled: 0
